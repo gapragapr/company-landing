@@ -124,6 +124,7 @@ h2{
     background-size: cover;
     background-position: top;
     position: relative;
+    background-image: url("../img/photo.jpg");
 }
 .first-section-block2::before{
     content: " ";
@@ -407,9 +408,8 @@ a{
     .first-section-block1{
         padding-top: 50px;
     }
-    .first-section-block2{
+    .section-column{
         width: 100%;
-        height: auto;
     }
     .full-screen-section{
         padding: 15px;
