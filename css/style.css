@@ -125,9 +125,6 @@ h2{
     background-position: top;
     position: relative;
 }
-.first-section-block2 img{
-    flex: 1;
-}
 .first-section-block2::before{
     content: " ";
     position: absolute;
