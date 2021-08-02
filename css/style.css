@@ -381,6 +381,9 @@ a{
         text-align: center;
         align-items: center;
     }
+    .first-section-block2{
+        height: 450px;
+    }
     .card-item{
         width: 100%;
         padding: 15px;
