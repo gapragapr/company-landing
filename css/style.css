@@ -407,6 +407,10 @@ a{
     .first-section-block1{
         padding-top: 50px;
     }
+    .first-section-block2{
+        width: 100%;
+        height: 372px;
+    }
     .full-screen-section{
         padding: 15px;
         background: none;
